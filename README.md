@@ -5,7 +5,7 @@
 ### 💻 Desarrollador Web Full-Stack en Formación
 
 📧 **Contacto directo:** `matmansilla1@gmail.com`
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MateoMansillaDev)
+
 
 </div>
 
